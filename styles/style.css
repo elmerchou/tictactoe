@@ -1,0 +1,72 @@
+body {
+  background: -webkit-gradient(linear, left top, right top, from(#000000), to(#fd0000));
+  background: linear-gradient(90deg, #000000, #fd0000);
+  color: #666;
+  font-family: Arial, sans-serif;
+}
+
+body h1 {
+  text-align: center;
+  color: #fff;
+}
+
+body .clear {
+  clear: both;
+}
+
+body #container {
+  width: 350px;
+  overflow: auto;
+  margin: 40px auto;
+  margin-top: 12%;
+  background: #666;
+  padding-bottom: 40px;
+  border-radius: 10px;
+}
+
+body #board li {
+  float: left;
+  margin: 10px;
+  height: 70px;
+  width: 70px;
+  font-size: 55px;
+  background: #333;
+  color: #ccc;
+  list-style: none;
+  text-align: center;
+  border-radius: 5px;
+}
+
+body #board li:hover {
+  cursor: pointer;
+  background: #000000;
+}
+
+body #reset {
+  border: 0;
+  background: #444;
+  color: #fff;
+  width: 70%;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+body #reset:hover {
+  cursor: pointer;
+  background: #000000;
+}
+
+body .o {
+  color: green !important;
+}
+
+body .x {
+  color: red !important;
+}
+
+body footer {
+  display: block;
+  text-align: center;
+  margin-top: 30px;
+}
+/*# sourceMappingURL=style.css.map */
