@@ -1,8 +1,10 @@
 # tictactoe
 A simple web tic-tac-toe game made on April 4, 2022
 Use HTML, CSS, javaScript.Visit site [here](https://elmerchou.github.io/tictactoe/).
+<p align="center">
+  <img src="https://i.imgur.com/V4uQy7g.png" />
+</p>
 
-![](https://i.imgur.com/V4uQy7g.png)
 
 ## Reference
 - [Coding Challenge #149: Tic Tac Toe](https://www.youtube.com/watch?v=GTWrWM1UsnA&ab_channel=TheCodingTrain)
