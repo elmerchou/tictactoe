@@ -9,6 +9,7 @@ Use HTML, CSS, javaScript.Visit site [here](https://elmerchou.github.io/tictacto
 - [Build Tic Tac Toe With JavaScript - Tutorial](https://www.youtube.com/watch?v=Y-GkMjUZsmM&ab_channel=WebDevSimplified)
 - And more tutorial videos on Youtube, thanks for their help very much.
 
-## What may do in the future
-- Rebuild this project with React.js
-- Other optimizations
+## Roadmap
+- [x] Complete foundamental tictactoe game by using HTML, CSS, javaScript.
+- [ ] Rebuild this project with React.js
+- [ ] Other optimizations
