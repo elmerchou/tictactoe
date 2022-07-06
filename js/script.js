@@ -40,9 +40,9 @@ $(document).ready(function () {
     ) {
       alert("Winner is X");
     } else if (turns == 9) {
-      alert("You guys are fucking shit");
+      alert("Already tied, please start again.");
     } else if ($(this).hasClass("disabled")) {
-      alert("This hole is already used,bitch");
+      alert("This box has already been filled!");
     } else if (ox == true) {
       turns++;
       $(this).text(o);
